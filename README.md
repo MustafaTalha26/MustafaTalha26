@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MustafaTalha26
 - 👀 I’m interested in Java and C++
 - 🌱 I’m currently learning Java
-- 💞️ I’m trying somethings
+- 💞️ I’m trying something
 - 📫 How to reach me discord BigFloppa#9988
 
 <!---
