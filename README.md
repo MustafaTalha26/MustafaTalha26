@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MustafaTalha26
-- 👀 I’m searching programing ideas
+- 👀 I’m searching for programing ideas
 - 🌱 I’m currently learning image processing
 - 💞️ I’m trying something
 - 📫 How to reach me discord BigFloppa#9988
