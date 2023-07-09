@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @MustafaTalha26
-- 👀 I’m searching for programing ideas
-- 🌱 I’m currently learning image processing
-- 💞️ I’m trying something
-- 📫 How to reach me discord BigFloppa#9988
+There will be stuff here time to time.
+
+
+https://leetcode.com/MustafaTalhaMert/
+https://www.codewars.com/users/BigFloppa26
+https://www.hackerrank.com/mustafatalhamer1
 
 <!---
 MustafaTalha26/MustafaTalha26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
