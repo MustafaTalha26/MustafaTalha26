@@ -3,7 +3,6 @@ Feel free  to check it out.
 
 
 - https://leetcode.com/MustafaTalhaMert/
-- https://www.codewars.com/users/BigFloppa26
 - https://www.hackerrank.com/mustafatalhamer1
 - https://www.kaggle.com/mustafatalhamert
 
